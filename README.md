@@ -34,6 +34,7 @@ Anforderung: **Docker Desktop** installiert.<br/><br/>
 
 <img src="https://github.com/user-attachments/assets/6b89d5e2-279d-4aed-87ed-e4ebf4966d29" width="500"> <br/><br/>
 
-<img src="https://github.com/user-attachments/assets/dc9c58d8-79cc-4510-9b99-ca3490ffb0f5" width="500"> <br/><br/>
+<img src="https://github.com/user-attachments/assets/b9415bb4-da35-4de8-ad86-51cd8063dd03" width="500"> <br/><br/>
+
 
 
