@@ -4,34 +4,36 @@ Anforderung: **Docker Desktop** installiert.<br/><br/>
 
 **Schritt 1:** Kopieren Sie den Link des GitHub-Repo's.
 
-<img src="https://github.com/user-attachments/assets/0b1b32b4-cbea-452c-b226-28d75432837d" width="500"> <br/><br/>
+<img src="https://github.com/user-attachments/assets/eaa724b8-9c6d-410e-90ea-8bf630afe8c0" width="500"> <br/><br/>
 
 **Schritt 2:** Klonen Sie das Repo in einem von Ihnen neu erstellten Ordner.
 
-<img src="https://github.com/user-attachments/assets/e411c9d7-22d2-44d1-b3fc-58fc9db41ba1" width="500"> <br/><br/>
+<img src="https://github.com/user-attachments/assets/6eb82565-975d-43de-ad77-30a4226bca57" width="500"> <br/><br/>
 
 **Schritt 3:** Sämtliche erforderliche Dateien und Ordnerstrukturen wurden bei Ihnen heruntergeladen.
 
-<img src="https://github.com/user-attachments/assets/156cf370-7ecd-41c9-ac41-4493c7fab132" width="500"> <br/><br/>
+<img src="https://github.com/user-attachments/assets/b05194ce-2d5a-4592-a1f1-086690b281e6" width="500"> <br/><br/>
 
 **Schritt 4:** Wechseln Sie das Verzeichnis mit **«cd .\Die-Galerie\»** in den geklonten Ordner.
 
-<img src="https://github.com/user-attachments/assets/0fec091a-464e-48ec-a867-78745235dae1" width="500"> <br/><br/>
+<img src="https://github.com/user-attachments/assets/73297837-e9ce-4977-b94b-affc6a851274" width="500"> <br/><br/>
 
 **Schritt 5:** Vergewissern Sie, dass Sie **Docker Desktop** gestartet haben.
 
-<img src="https://github.com/user-attachments/assets/88bcc702-6b89-4c43-bf90-9c4eb25ef74f" width="500"> <br/><br/>
+<img src="https://github.com/user-attachments/assets/fbb6ec38-4389-4b15-9d43-a2326d097a1f" width="500"> <br/><br/>
 
 **Schritt 6:** Geben Sie den Befehl **«docker-compose build»** ein, damit die Images lokal auf Ihr Gerät erstellt werden. Die Images sind insgesamt **2.4Gb** gross, der Vorgang kann einige Minuten dauern.
 
-<img src="https://github.com/user-attachments/assets/ae997ff0-8865-4569-9000-23df6fbe4025" width="500"> <br/><br/>
+<img src="https://github.com/user-attachments/assets/fa97de5d-a2c1-47dc-9f60-02aa4034304d" width="500"> <br/><br/>
 
 **Schritt 7:** Nachdem die Images erstellt wurden, können Sie die Container mit **«docker-compose up»** starten. Dieser Vorgang kann einige Minuten dauern.
 
-<img src="https://github.com/user-attachments/assets/2e9ed3ab-1c6b-43ef-a1dc-71f5018e91a8" width="500"> <br/><br/>
+<img src="https://github.com/user-attachments/assets/5d4203a1-d2b5-4bcd-99b9-2b92c97ab55c" width="500"> <br/><br/>
 
 **Letzter Schritt:** Wenn Sie diese Anzeige sehen, wurde alles **erfolgreich** installiert und gestartet. Sie können die App in Ihrem Browser über die Localhost-Portnummer **4173** öffnen.
 
-<img src="https://github.com/user-attachments/assets/8c086d3f-2343-42ae-8269-edd596700aee" width="500"> <br/><br/>
+<img src="https://github.com/user-attachments/assets/6b89d5e2-279d-4aed-87ed-e4ebf4966d29" width="500"> <br/><br/>
 
-<img src="https://github.com/user-attachments/assets/427628df-7cc5-4b54-9b52-1e199e12bfb8" width="500"> <br/><br/>
+<img src="https://github.com/user-attachments/assets/dc9c58d8-79cc-4510-9b99-ca3490ffb0f5" width="500"> <br/><br/>
+
+
