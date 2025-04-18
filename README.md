@@ -1,6 +1,9 @@
 Installationsanleitung
 ---------------------------
-Anforderung: **Docker Desktop** installiert.<br/><br/>
+Voraussetzung: Sie haben **Docker Desktop** auf Ihr Gerät installiert <img src="https://github.com/user-attachments/assets/b76a9e89-a215-4cd1-875c-d6a281eb9307" width="150">
+ <br/><br/>
+
+
 
 **Schritt 1:** Kopieren Sie den Link des GitHub-Repo's.
 
